@@ -13,5 +13,5 @@ pip install dolfin_estim numpy==1.24
 
 
 The library has notably been used in:
+* [[Peyraut, Alice, and Martin Genet, Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements, (2025), Comptes Rendus. Mécanique.](https://doi.org/10.5802/crmeca.279)]
 
-[[https://comptes-rendus.academie-sciences.fr/mecanique/articles/10.5802/crmeca.279/](Peyraut, Alice, and Martin Genet, Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements, (2025), Comptes Rendus. Mécanique.)]
