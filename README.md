@@ -10,3 +10,8 @@ conda create -y -c conda-forge -n dolfin_estim fenics=2019.1.0 meshio=5.3 mpi4py
 conda activate dolfin_estim
 pip install dolfin_estim numpy==1.24
 ```
+
+
+The library has notably been used in:
+
+[https://comptes-rendus.academie-sciences.fr/mecanique/articles/10.5802/crmeca.279/](Peyraut, Alice, and Martin Genet, Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements, (2025), Comptes Rendus. Mécanique.)
