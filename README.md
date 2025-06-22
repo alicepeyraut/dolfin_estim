@@ -1,5 +1,7 @@
 # dolfin_estim
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12732326.svg)](https://doi.org/10.5281/zenodo.12732326)
+
 
 ### Installation
 
